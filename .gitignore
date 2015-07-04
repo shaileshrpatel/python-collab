@@ -1,0 +1,8 @@
+# py files
+*.py[co]
+
+# IDE Files
+.sublime-project
+.idea
+.spyder-project
+.spyder-workspace
